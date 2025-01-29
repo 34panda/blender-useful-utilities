@@ -2,6 +2,10 @@
 
 Blender Useful Utilities is an addon created to improve work ergonomics by giving useful tools and shortcuts
 
+## Prerequisites
+
+Installed Blender 4.2.0
+
 ## Installation
 
 Download `blender_useful_utilities_1.0.0.zip` from repository.
