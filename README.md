@@ -1,4 +1,4 @@
-# Blender Useful Utilities
+# Blender Useful Utilities (BUU!)
 
 Blender Useful Utilities is an addon created to improve work ergonomics by giving useful tools and shortcuts
 
